@@ -2,7 +2,6 @@
 ad-emea.doubleclick.net
 ad-g.doubleclick.net
 ad-yt-bfp.doubleclick.net
-ad.3au.doubleclick.net
 ad.ae.doubleclick.net
 ad.au.doubleclick.net
 ad.be.doubleclick.net
@@ -15,7 +14,6 @@ ad.fr.doubleclick.net
 ad.it.doubleclick.net
 ad.jp.doubleclick.net
 ad.mo.doubleclick.net
-ad.n2434.doubleclick.net
 ad.nl.doubleclick.net
 ad.no.doubleclick.net
 ad.nz.doubleclick.net
