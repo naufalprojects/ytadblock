@@ -25,10 +25,6 @@ ad.ve.doubleclick.net
 ad.za.doubleclick.net
 ad2.doubleclick.net
 amn.doubleclick.net
-creative.cc-dt.com
-doubleclick.com
-doubleclick.de
-doubleclick.net
 ebaycn.doubleclick.net
 ebaytw.doubleclick.net
 feedads.g.doubleclick.net
